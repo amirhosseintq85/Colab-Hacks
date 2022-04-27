@@ -1,43 +1,36 @@
-<img src="https://raw.githubusercontent.com/PradyumnaKrishna/PradyumnaKrishna/master/logo.svg" align="right" height="50" width="50"/>
+<p align="center">
+<img src="https://media.giphy.com/media/4dM1U76aAQ3dbE6bc3/giphy.gif" alt="GIF" width="128" height="128"/>
+</p>
+<p align="center">
+<a href="#"><img title="VPS/RDP GRÁTIS" src="https://img.shields.io/badge/VPS/RDP GRÁTIS-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+</p>
+<p align="center">
+<a href="https://github.com/Biiuh"><img title="Criador" src="https://img.shields.io/badge/Criador-BiiuhYT-orange.svg?style=for-the-badge&logo=github"></a>
+</p>
 
-# Colab Hacks [![License: MIT][License-Badge]](LICENSE.md)
-Simple Hacks for Google Colaboratory to boost your productivity and help you to perform daily tasks.
 
+#### Tutorial YouTube
 
-## [Colab RDP](Colab%20RDP/Colab%20RDP.ipynb) &nbsp;&nbsp; [![Open in Colab][Colab Badge]][RDP Notebook] [![RDP Issues][RDP Issues]](https://github.com/PradyumnaKrishna/Colab-Hacks/issues/labels/Colab%20RDP)
+* Link: `https://www.youtube.com/c/HACKMTH`
 
-Colab RDP is used to get **Remote Connection** to Google Colaboratory with graphic user interface. It can be used to boost your productivity and you can perform heavy task without any worries.
+#### Tutorial PT/BR
+1. Obrigatório criar a conta em: `https://dashboard.ngrok.com/signup`
+2. Ir nas "Settings" depois em "Secrets" e criar um repositorio secreto com o nome `NGROK_AUTH_TOKEN`
+3. Coloque o token de: `https://dashboard.ngrok.com/get-started/your-authtoken` no repositorio secreto
+4. Vai em "Actions" e procure "BiiuhRDP".
 
-<br />
+#### Tutorial EN
+1. Account must be created at: `https://dashboard.ngrok.com/signup`
+2. Go to "Settings" then "Secrets" and create a secret repository named `NGROK_AUTH_TOKEN`
+3. Place the token: `https://dashboard.ngrok.com/get-started/your-authtoken` in the secret repository
+4. Go to "Actions" and look for "BiiuhRDP".
 
-## [Code Server](Code%20Server/Code%20Server.ipynb) &nbsp;&nbsp; [![Open in Colab][Colab Badge]][Code Notebook] [![Code Issues][Code Issues]](https://github.com/PradyumnaKrishna/Colab-Hacks/issues/labels/Code%Server)
-Code Server is used to launch **VSCode** on browser using Agro Tunnel in Google Colaboratory which gives you better coding experience and you can use it for write code.
+#### Config.
+- IP: `https://dashboard.ngrok.com/endpoints/status`
+- User: `runneradmin`
+- Senha/Password: `Biiuh2021`
+- Tempo/Time: `6 horas/hours`
 
-<br />
-
-## [Torrent Downloader](Torrent%20Downloader/Torrent%20Downloader.ipynb) &nbsp;&nbsp; [![Open in Colab][Colab Badge]][Torrent Notebook] [![Torrent Issues][Torrent Issues]](https://github.com/PradyumnaKrishna/Colab-Hacks/issues/labels/Torrent%20Downloader)
-Torrent Downloader is **Colab based Torrent Downloader** in which you doesn't need any torrent client only just a google account for downloading and storing downloaded torrents into google drive.
-
-<br />
-
-<details>
-<summary><b>Why are hardware resources such as T4 GPUs not available to me?</b></summary>
-The best available hardware is prioritized for users who use Colaboratory interactively rather than for long-running computations. Users who use Colaboratory for long-running computations may be temporarily restricted in the type of hardware made available to them, and/or the duration that the hardware can be used for. We encourage users with high computational needs to use Colaboratory’s UI with a local runtime.
-Please note that using Colaboratory for cryptocurrency mining is disallowed entirely, and may result in being banned from using Colab altogether.
-
-<sub>Source: https://research.google.com/colaboratory/faq.html</sub>
-</details>
-
-### Support
-1.  **Star this repository**
-2.  **Promote this repository**
-3.  **Contribute to this repository**
-
-[Colab Badge]:          https://colab.research.google.com/assets/colab-badge.svg
-[License-Badge]:        https://img.shields.io/badge/License-MIT-blue.svg
-[RDP Issues]:           https://img.shields.io/github/issues/PradyumnaKrishna/Colab-Hacks/Colab%20RDP?label=Issues
-[RDP Notebook]:         https://colab.research.google.com/github/PradyumnaKrishna/Colab-Hacks/blob/master/Colab%20RDP/Colab%20RDP.ipynb
-[Code Issues]:          https://img.shields.io/github/issues/PradyumnaKrishna/Colab-Hacks/Code%20Server?label=Issues
-[Code Notebook]:        https://colab.research.google.com/github/PradyumnaKrishna/Colab-Hacks/blob/master/Code%20Server/Code%20Server.ipynb
-[Torrent Issues]:       https://img.shields.io/github/issues/PradyumnaKrishna/Colab-Hacks/Torrent%20Downloader?label=Issues
-[Torrent Notebook]:     https://colab.research.google.com/github/PradyumnaKrishna/Colab-Hacks/blob/master/Torrent%20Downloader/Torrent%20Downloader.ipynb
+#### Config. PC
+- RAM: `7gb`
+- Cores: `2`
